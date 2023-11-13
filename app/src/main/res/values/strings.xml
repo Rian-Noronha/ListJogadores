@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ListJogadores</string>
     <string name="no_jogadores">Nenhum jogador cadastrado</string>
+    <string name="header_text">Jogadores</string>
     <plurals name="footer_text">
         <item quantity="one">1 jogador</item>
         <item quantity="other">%d jogadores</item>
